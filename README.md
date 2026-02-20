@@ -1,5 +1,9 @@
 # SkillStream
-"A modern, minimalist LMS that transforms curated YouTube content into structured, distraction-free learning paths with progress tracking."
+"A modern, minimalist LMS(Learning Management System) that transforms curated YouTube content into structured, distraction-free learning paths with progress tracking."
+
+## Our first Milestone should be
+creating the asthetic interface which contains
+
 
 ## About the Project
 SkillStream is designed to bridge the gap between "randomly watching tutorials" and "structured learning." While YouTube hosts the world's best educational content, it lacks the structure and satisfaction of a paid course.
