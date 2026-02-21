@@ -2,7 +2,7 @@
 "A modern, minimalist LMS(Learning Management System) that transforms curated YouTube content into structured, distraction-free learning paths with progress tracking."
 
 ## Our first Milestone should be
-creating the asthetic interface which contains
+ Realising soon
 
 
 ## About the Project
